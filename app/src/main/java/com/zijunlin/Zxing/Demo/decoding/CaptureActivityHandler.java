@@ -35,6 +35,7 @@ import java.util.Vector;
 
 /**
  * This class handles all the messaging which comprises the state machine for capture.
+ * 这个类处理所有消息传递包括捕获的状态机。
  *
  * @author dswitkin@google.com (Daniel Switkin)
  */

@@ -26,6 +26,7 @@ import android.app.Activity;
 
 /**
  * Finishes an activity after a period of inactivity.
+ * 完成一个活动经过一段时间的不活动。
  */
 public final class InactivityTimer {
 

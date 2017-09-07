@@ -32,6 +32,7 @@ import java.util.concurrent.CountDownLatch;
 
 /**
  * This thread does all the heavy lifting of decoding the images.
+ * 这个线程解码图像的所有重担。
  *
  * @author dswitkin@google.com (Daniel Switkin)
  */
