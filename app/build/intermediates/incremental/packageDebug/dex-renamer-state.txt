@@ -1,0 +1,7 @@
+#Thu Sep 07 09:41:00 CST 2017
+base.0=D\:\\androidNew\\ZXingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a0c3c6156f37eab137b70e86a5b2b113ea6098b8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\androidNew\\ZXingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_eff308dbe3a98704325f96551d1eaeb6aa6e59ba\\classes.dex
+base.1=D\:\\androidNew\\ZXingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_eff308dbe3a98704325f96551d1eaeb6aa6e59ba
+file.0=D\:\\androidNew\\ZXingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a0c3c6156f37eab137b70e86a5b2b113ea6098b8\\classes.dex

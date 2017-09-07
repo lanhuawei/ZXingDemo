@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="#ffffff"
+     >
+	<Button 
+	    android:id="@+id/scanCodeButton"
+	    android:layout_height="wrap_content"
+	    android:layout_width="fill_parent"
+	    android:text="扫描条形码"
+	    android:layout_marginTop="100dp"
+   	 />
+	<TextView 
+	    android:id="@+id/result"
+	    android:layout_height="wrap_content"
+	    android:layout_width="fill_parent"
+	    android:gravity="center"
+	    android:textColor="#000000"
+	    />
+</LinearLayout>

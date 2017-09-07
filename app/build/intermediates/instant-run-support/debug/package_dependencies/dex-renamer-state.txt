@@ -1,0 +1,7 @@
+#Thu Sep 07 08:49:44 CST 2017
+base.0=D\:\\androidNew\\ZXingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_e7ca7d8855efedca5441fb41d7e872a762336d8d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\androidNew\\ZXingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\core_15bf10391d331b3bc8d2bb11f73130f415c490db\\classes.dex
+base.1=D\:\\androidNew\\ZXingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\core_15bf10391d331b3bc8d2bb11f73130f415c490db
+file.0=D\:\\androidNew\\ZXingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_e7ca7d8855efedca5441fb41d7e872a762336d8d\\classes.dex
